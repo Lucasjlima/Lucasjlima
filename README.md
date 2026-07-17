@@ -14,7 +14,7 @@
 Full stack developer with hands-on production experience across Java/Spring Boot back-ends and React/Next.js front-ends. Currently building internal systems and AI-integrated products, while incorporating AI agents (Claude CLI, Codex CLI) and Spec-Driven Development into the workflow.
 
 **Currently**
-- 🏢 IT Intern at **Reluz Contábil** — designing and maintaining internal systems end-to-end (Java, Spring Boot, Quarkus, React, Next.js).
+- 🏢 Junior Software Engineer at **Reluz Contábil** — designing and maintaining internal systems end-to-end (Java, Spring Boot, Quarkus, React, Next.js).
 - 🎧 Building the back-end of an **Emotional Balance Platform** (freelance, in partnership with Oracle), integrating Spotify and news APIs to analyze emotional profiles.
 - ☁️ Studying for the **AWS Cloud Practitioner** certification, with hands-on practice in EC2, S3, VPC and Lightsail.
 
